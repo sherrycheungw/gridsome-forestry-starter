@@ -2,11 +2,11 @@
 // Learn more: https://gridsome.org/docs/config
 
 module.exports = {
-  siteName: "Portfolio",
+  siteName: "Madame Bella Interiors",
   siteUrl: `https://www.itsnwa.com`,
   host: "0.0.0.0",
-  titleTemplate: "%s - NWA",
-  siteDescription: "Creative technologist",
+  titleTemplate: "%s - HK",
+  siteDescription: "Wife. Mom. Designer",
   plugins: [
     {
       use: "@gridsome/source-filesystem",
