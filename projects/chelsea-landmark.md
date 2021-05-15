@@ -9,6 +9,6 @@ project_bg_color: ''
 project_fg_color: ''
 
 ---
-Bringing the vision of our client into life
+Bringing the vision of our client to life
 
 ![](/uploads/dsc_0039.JPG)
