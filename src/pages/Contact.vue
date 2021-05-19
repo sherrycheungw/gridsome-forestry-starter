@@ -7,8 +7,10 @@
         <p>Leave me a note with any questions you might have, I'll get back to you as soon as possible.</p>
       </div>
 
-      <form class="contact-form" name="contact" netlify netlify-honeypot="bot-field">
-
+      <form class="contact-form" name="contact">
+        
+        <input type="hidden" name="form-name" value="contact">
+        
         <div class="sender-info">
           <div>
             <label for="name" class="label">Your name</label>
