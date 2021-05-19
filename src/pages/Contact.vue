@@ -7,7 +7,7 @@
         <p>Leave me a note with any questions you might have, I'll get back to you as soon as possible.</p>
       </div>
 
-      <form class="contact-form" name="contact">
+      <form class="contact-form" name="contact" netlify netlify-honeypot="bot-field">
 
         <div class="sender-info">
           <div>
