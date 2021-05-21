@@ -1,6 +1,6 @@
 ---
 thumbnail: ''
-title: Residential - One Kai Tak
+title: FF&E
 date: 2019-01-04
 categories: []
 project_bg_color: ''
