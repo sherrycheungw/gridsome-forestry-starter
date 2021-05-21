@@ -1,6 +1,6 @@
 ---
 thumbnail: "/uploads/img_1037.JPG"
-title: Residential - Clearwater Bay
+title: Full Renovation
 date: 2019-01-03
 categories: []
 project_bg_color: ''
