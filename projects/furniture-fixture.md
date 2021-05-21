@@ -2,7 +2,8 @@
 thumbnail: "/uploads/b9113285-6d70-4e72-85ca-4bdd80b5ccb1.JPG"
 title: Furniture, Fixture & Equipment Specification (FF&E)
 date: 2019-01-04
-categories: []
+categories:
+- FF&E
 project_bg_color: ''
 project_fg_color: "#575757"
 
