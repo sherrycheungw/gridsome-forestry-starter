@@ -1,7 +1,7 @@
 ---
 date: 2019-05-16
 year: 2019
-title: Residential - Mei Foo
+title: Home Styling
 category: Identity
 thumbnail: "/uploads/dsc_0039.JPG"
 categories: []
@@ -9,6 +9,6 @@ project_bg_color: ''
 project_fg_color: ''
 
 ---
-Bringing the vision of our client to life
+Madame Bella Interiors HK values your unique style and aims to kick it up a notch. Our mission is to elevate your style without compromising the functionality of the space. 
 
 ![](/uploads/dsc_0039.JPG)
