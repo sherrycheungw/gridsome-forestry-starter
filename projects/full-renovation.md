@@ -1,5 +1,5 @@
 ---
-thumbnail: "/uploads/slide09.jpg"
+thumbnail: "/uploads/slide03.jpg"
 title: Space Planning and Mood Boards
 date: 2019-01-03
 categories:
