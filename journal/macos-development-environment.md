@@ -1,7 +1,7 @@
 ---
 date: 2019-05-18
 title: Testing
-author: Nichlas W. Andersen
+author: Sherry Cheung
 excerpt: Get up and running with a fresh macOS Catalina install
 
 ---
