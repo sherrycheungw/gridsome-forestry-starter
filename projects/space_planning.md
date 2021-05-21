@@ -4,7 +4,7 @@ title: Full Renovation
 date: 2019-02-06
 categories:
 - Renovation
-project_bg_color: "#575757"
-project_fg_color: ''
+project_bg_color: ''
+project_fg_color: "#575757"
 
 ---
