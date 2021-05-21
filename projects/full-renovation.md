@@ -2,8 +2,7 @@
 thumbnail: "/uploads/slide03.jpg"
 title: Space Planning and Mood Boards
 date: 2019-01-03
-categories:
-- Projects
+categories: []
 project_bg_color: "#575757"
 project_fg_color: ''
 
