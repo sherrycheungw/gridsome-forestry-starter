@@ -1,6 +1,6 @@
 ---
 thumbnail: "/uploads/img_1037.JPG"
-title: Residential - Kowloon Tong
+title: Space Planning and Mood Boards
 date: 2019-02-06
 categories:
 - photography
