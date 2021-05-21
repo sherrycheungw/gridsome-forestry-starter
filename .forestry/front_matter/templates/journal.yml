@@ -29,11 +29,11 @@ fields:
     source:
       type: simple
       section: authors
-      file: data/authors/nichlas-w-andersen.json
+      file: data/authors/sherry-cheung.json
     required: true
     options:
-    - Nichlas W. Andersen
+    - Sherry Cheung
   label: Author
-  default: Nichlas W. Andersen
+  default: Sherry Cheung
 pages:
 - journal/macos-development-environment.md
