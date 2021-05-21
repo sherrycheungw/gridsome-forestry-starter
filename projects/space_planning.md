@@ -7,3 +7,4 @@ project_bg_color: "#EDEDED"
 project_fg_color: "#36B5EF"
 
 ---
+![](/uploads/slide06.jpg)
