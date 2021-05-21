@@ -1,7 +1,7 @@
 ---
 date: 2021-05-21
 title: Home Styling
-author: Nichlas W. Andersen
+author: Sherry Cheung
 excerpt: 'Madame Bella Interiors HK values your unique style and aims to kick it up
   a notch. Our mission is to elevate your style without compromising the functionality
   of the space. '
