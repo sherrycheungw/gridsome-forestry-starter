@@ -6,7 +6,7 @@ category: Identity
 thumbnail: "/uploads/dsc_0039.JPG"
 categories:
 - Interiors
-project_bg_color: ''
+project_bg_color: "#575757"
 project_fg_color: ''
 
 ---
