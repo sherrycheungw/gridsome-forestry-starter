@@ -6,6 +6,6 @@ categories:
 - Interiors
 - Tips
 project_bg_color: "#EDEDED"
-project_fg_color: "#36B5EF"
+project_fg_color: "#575757"
 
 ---
