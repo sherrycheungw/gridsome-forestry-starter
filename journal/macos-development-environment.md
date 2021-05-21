@@ -1,5 +1,5 @@
 ---
-date: 2019-05-18
+date: 2019-05-16
 title: Testing
 author: Sherry Cheung
 excerpt: Get up and running with a fresh macOS Catalina install
