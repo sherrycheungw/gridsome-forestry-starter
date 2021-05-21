@@ -1,6 +1,6 @@
 ---
 thumbnail: "/uploads/img_1037.JPG"
-title: Residential - Kowloon Tong
+title: Residential - Clearwater Bay
 date: 2019-01-03
 categories:
 - photography
