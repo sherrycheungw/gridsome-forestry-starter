@@ -36,6 +36,7 @@ fields:
   label: Author
   default: Sherry Cheung
 pages:
+- journal/bluebell-farm-united-kingdom.md
 - journal/macos-development-environment.md
 - journal/mei-foo-sun-chuen.md
 - journal/washington-dc.md
