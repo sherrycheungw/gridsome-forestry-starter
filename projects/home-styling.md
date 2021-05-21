@@ -4,7 +4,9 @@ year: 2019
 title: Home Styling
 category: Identity
 thumbnail: "/uploads/dsc_0039.JPG"
-categories: []
+categories:
+- Interiors
+- Tips
 project_bg_color: ''
 project_fg_color: ''
 
