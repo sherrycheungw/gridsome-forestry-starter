@@ -6,6 +6,6 @@ categories:
 - Info
 - Tips
 project_bg_color: ''
-project_fg_color: "#FDC70D"
+project_fg_color: "#9B9B9B"
 
 ---
