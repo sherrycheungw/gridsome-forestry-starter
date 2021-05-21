@@ -8,3 +8,5 @@ project_fg_color: "#36B5EF"
 
 ---
 ![](/uploads/slide06.jpg)
+
+The quick **_brown fox jumps over_** the **_lazy dog._**
