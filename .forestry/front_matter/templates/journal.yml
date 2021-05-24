@@ -15,6 +15,7 @@ fields:
     required: true
 pages:
 - journal/bluebell-farm-united-kingdom.md
+- journal/kowloon-tong.md
 - journal/macos-development-environment.md
 - journal/mei-foo-sun-chuen.md
 - journal/tsim-sha-tsui-wharf-t-t-centre.md
