@@ -5,3 +5,4 @@ title: Tsim Sha Tsui - Wharf T&T Centre
 excerpt: Office Project
 
 ---
+Space Planning, Mood Board, FF&E
