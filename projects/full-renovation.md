@@ -8,6 +8,6 @@ project_bg_color: ''
 project_fg_color: "#575757"
 
 ---
-In the beginning of the design process, a design concept will be tailor-made for your home. A mood board will then be created using a collection of concept images to bring out a general mood, style, color scheme, materials, and an overall feel of the space. The concept will be further elaborated into the space layout and be translated into sketches, 2D and 3D drawings.  
+In the beginning of the design process, a design concept will be tailor-made for your home. A personalized mood board will be created using a collection of concept images to bring out a general mood, style, color scheme, materials, and an overall feel of the space. The concept will be further elaborated into the space layout through sketches, 2D and 3D drawings.  
 
 ![](/uploads/slide04.jpg)
