@@ -2,7 +2,7 @@
 // Learn more: https://gridsome.org/docs/config
 
 module.exports = {
-  siteName: "Madame Bella Interiors - HK",
+  siteName: "Madame Bella Interiors - Interior Design Hong Kong",
   siteUrl: `https://madamebellahk.com`,
   host: "0.0.0.0",
   titleTemplate: "%s",
