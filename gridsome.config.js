@@ -3,7 +3,7 @@
 
 module.exports = {
   siteName: "Madame Bella Interiors",
-  siteUrl: `https://www.itsnwa.com`,
+  siteUrl: `https://madamebellahk.com`,
   host: "0.0.0.0",
   titleTemplate: "%s - HK",
   siteDescription: "Wife. Mom. Designer",
