@@ -10,5 +10,7 @@ project_bg_color: ''
 project_fg_color: "#575757"
 
 ---
-Madame Bella Interiors HK values your unique style and aims to kick it up a notch. Our mission is to elevate your style without compromising the functionality of the space, but ensuring the translation of the Concept carries through to the little details - serveware, dinnerware, linens, soft furnishings and decorative items.  
+Madame Bella Interiors HK listens to your needs and values your unique style. Our mission is to elevate your style without compromising the functionality of the space, but ensuring little details like serveware, dinnerware, linens, decorative items and soft furnishings be translated and reflective to our Concept.
+
+  
 ![](/uploads/dsc_0039.JPG)
