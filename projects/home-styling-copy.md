@@ -1,7 +1,7 @@
 ---
 date: 2019-05-16
 year: 2019
-title: Home Styling-(copy)
+title: Home Styling
 category: Identity
 thumbnail: "/uploads/dsc_0039.JPG"
 categories:
