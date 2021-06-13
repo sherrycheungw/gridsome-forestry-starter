@@ -36,6 +36,7 @@ fields:
     color_format: Hex
   label: Foreground color
 pages:
+- projects/complete-renovation-copy.md
 - projects/full-renovation.md
 - projects/furniture-fixture-equipment-specification-ff-e-copy.md
 - projects/furniture-fixture.md
