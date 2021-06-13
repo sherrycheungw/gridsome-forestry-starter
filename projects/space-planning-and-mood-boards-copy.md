@@ -1,6 +1,6 @@
 ---
 thumbnail: "/uploads/img_0583.JPG"
-title: Furniture, Fixture & Equipment Specification (FF&E)
+title: Our Design Process
 date: 2019-01-03
 categories: []
 project_bg_color: ''
@@ -14,7 +14,6 @@ Overview of our design process
 * Scheduling
 * Space Planning
 * Conceptual Design
-* Furnishings Investment Development
 
 ##### Phase 2: Design Development
 
