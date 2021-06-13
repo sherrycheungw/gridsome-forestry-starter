@@ -1,6 +1,6 @@
 ---
 thumbnail: "/uploads/b9113285-6d70-4e72-85ca-4bdd80b5ccb1.JPG"
-title: Furniture, Fixture & Equipment Specification (FF&E)-(copy)
+title: Furniture, Fixture & Equipment Specification (FF&E)
 date: 2019-01-04
 categories:
 - FF&E
