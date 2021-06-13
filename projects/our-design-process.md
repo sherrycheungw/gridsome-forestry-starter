@@ -7,7 +7,7 @@ project_bg_color: ''
 project_fg_color: ''
 
 ---
-Overview of our design process 
+Overview of our design process
 
 ##### Phase 1: Schematic Design
 
@@ -32,4 +32,4 @@ Overview of our design process
 
 * Site Visits
 * Accessory Sourcing for Home Styling
-* Installation 
+* Installation
