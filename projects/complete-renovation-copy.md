@@ -1,6 +1,6 @@
 ---
 thumbnail: "/uploads/img_1037.JPG"
-title: Complete Renovation-(copy)
+title: Complete Renovation
 date: 2019-02-06
 categories:
 - Renovation
