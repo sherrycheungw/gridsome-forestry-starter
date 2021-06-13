@@ -1,7 +1,7 @@
 ---
 date: 2021-06-13
 thumbnail: "/uploads/img_0583.JPG"
-title: Our Design Process-(copy)
+title: Our Design Process
 categories: []
 project_bg_color: ''
 project_fg_color: ''
