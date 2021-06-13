@@ -1,6 +1,6 @@
 ---
 thumbnail: "/uploads/slide03.jpg"
-title: Furniture, Fixture & Equipment Specification (FF&E)
+title: Space Planning and Mood Boards
 date: 2019-01-04
 categories:
 - FF&E
