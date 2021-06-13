@@ -1,7 +1,7 @@
 ---
 date: 2021-06-13
-thumbnail: "/uploads/img_0583.JPG"
-title: Our Design Process
+thumbnail: "/uploads/b9113285-6d70-4e72-85ca-4bdd80b5ccb1.JPG"
+title: Furniture, Fixture & Equipment Specification (FF&E)
 categories: []
 project_bg_color: ''
 project_fg_color: ''
