@@ -7,29 +7,6 @@ project_bg_color: ''
 project_fg_color: ''
 
 ---
-Overview of our design process
+We offer you our expertise to help select the most suitable furniture, fixtures and equipment for your home space through our trusted network of retailers and suppliers. We love designing custom pieces for clients (cushions, sofas, headboards, curtains, you name it!). There are endless possibilities and we make sure every soft element speaks to you and is in alignment with the approved concept.
 
-##### Phase 1: Schematic Design
-
-* Scheduling
-* Space Planning
-* Conceptual Design
-* Furnishings Investment Development
-
-##### Phase 2: Design Development
-
-* Material & Furnishings Specifications
-* Budget Review
-* Construction Documentation
-
-##### Phase 3: Procurement for FF&E
-
-* Quotes, Proposals & Payments
-* Goods Purchasing
-* Local/Global Sourcing, Tracking Shipping and Expediting
-
-##### Phase 4: Construction & Installation
-
-* Site Visits
-* Accessory Sourcing for Home Styling
-* Installation
+![](/uploads/27050191-3847-4ad3-b1f2-129a4581b660-2.JPG)![](/uploads/slide11.jpg)
