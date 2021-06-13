@@ -1,7 +1,7 @@
 ---
 date: 2021-06-13
 thumbnail: "/uploads/dsc_0039.JPG"
-title: Home Styling 2
+title: Home Styling
 categories: []
 project_bg_color: ''
 project_fg_color: "#575757"
