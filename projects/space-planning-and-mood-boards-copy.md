@@ -1,6 +1,6 @@
 ---
 thumbnail: "/uploads/slide03.jpg"
-title: Space Planning and Mood Boards-(copy)
+title: Space Planning and Mood Boards
 date: 2019-01-03
 categories:
 - Concept
