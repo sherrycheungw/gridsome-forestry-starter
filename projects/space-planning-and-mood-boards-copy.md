@@ -32,3 +32,5 @@ Overview of our design process
 * Site Visits
 * Accessory Sourcing for Home Styling
 * Installation
+
+![](/uploads/cd8e0fca-0219-4d4a-b67e-444e7314c70c.jpeg)
