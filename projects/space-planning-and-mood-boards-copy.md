@@ -11,7 +11,7 @@ Overview of our design process
 
 ##### Phase 1: Schematic Design
 
-* Scheduling
+* Scheduling and Site Surveying
 * Space Planning
 * Conceptual Design
 
@@ -25,7 +25,7 @@ Overview of our design process
 
 * Quotes, Proposals & Payments
 * Goods Purchasing
-* Local/Global Sourcing, Tracking Shipping and Expediting
+* Local/Global Sourcing, Shipping Tracking and Expediting
 
 ##### Phase 4: Construction & Installation
 
