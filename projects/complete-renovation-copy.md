@@ -8,7 +8,7 @@ project_bg_color: ''
 project_fg_color: "#575757"
 
 ---
-Complete renovation is a full service that includes space planning, mood board, FF&E, and/or home styling. Our experienced team manages the entire construction from start to finish, ensuring a seamless and stress-free project for you that meets your budget. 
+Complete renovation is a full service that includes space planning, mood board, FF&E, and/or home styling. Our experienced team manages the entire construction from start to finish, ensuring a seamless and stress-free project for you that meets your budget.
 
 Our full service design projects involve the following:
 
@@ -17,7 +17,7 @@ Our full service design projects involve the following:
 * Sketches, 2D drawings, 3D Renderings
 * Construction documentation or drawings (electrical and lighting plans, elevations, etc)
 * Site visits, client meetings and budget reviews
-* Procurement
+* Procurement 
 
 ![](/uploads/img_2227.JPG)
 
