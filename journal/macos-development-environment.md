@@ -7,3 +7,4 @@ excerpt: Renovation, FF&E and Sourcing
 Madame_Bella_Interios_HK: Sherry Cheung
 
 ---
+In partnership with Joyce Taufer Interior Design Studio.
