@@ -5,3 +5,4 @@ author: Sherry Cheung
 excerpt: Renovation, FF&E, and Sourcing
 
 ---
+In partnership with Joyce Taufer Interior Design Studio.
